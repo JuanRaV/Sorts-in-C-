@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1651252567 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\src\list.cpp
+	"list.h"
+	"node.h"
+	"Producto.h"
+	<iostream>
+
+1651253753 c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\include\list.h
+	"node.h"
+	"Producto.h"
+
+1651246165 c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\include\node.h
+	"Producto.h"
+
+1651251563 c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\include\producto.h
+	<iostream>
+
+1651251537 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\src\node.cpp
+	"node.h"
+
+1651251538 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\src\producto.cpp
+	"Producto.h"
+
+1651253068 source:c:\users\juanr_axzldpc\documents\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	"list.h"
+	"node.h"
+	"Producto.h"
+
+1651687520 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\main.cpp
+	<iostream>
+	<windows.h>
+	"list.h"
+	"node.h"
+	"Producto.h"
+
+1651272804 c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\include\list.h
+	"node.h"
+	"Producto.h"
+
+1651246165 c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\include\node.h
+	"Producto.h"
+
+1651271734 c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\include\producto.h
+	<iostream>
+
+1651251537 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\src\node.cpp
+	"node.h"
+
+1651271734 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\src\producto.cpp
+	"Producto.h"
+
+1651687293 source:c:\users\juanr_axzldpc\onedrive\documentos\2do semestre\estructuras de datos 1-noe\programa ordenamientos\prog04 ramirez virgen juan ramon\src\list.cpp
+	"list.h"
+	"node.h"
+	"Producto.h"
+	<iostream>
+
